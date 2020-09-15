@@ -1,0 +1,15 @@
+
+.product {
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.product > h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.product > hr{
+    margin-bottom: 20px;
+}
+
