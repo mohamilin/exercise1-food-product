@@ -6,8 +6,11 @@ const Product = () => {
     return (
         <div className="product">
             <h1>Data Produk Makanan dan Minuman</h1>
-            <hr/>
-            <ListProduct/>
+            <hr />
+            <div className="product-content">
+                <ListProduct />
+            </div>
+            <hr />
         </div>
     )
 }
